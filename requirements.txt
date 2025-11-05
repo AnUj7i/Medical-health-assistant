@@ -1,5 +1,10 @@
 streamlit
 google-generativeai
+python-dotenv
 firebase-admin
-faiss-cpu
-chromadb
+sentence-transformers
+plotly
+PyMuPDF
+tf-keras
+transformers
+tensorflow
