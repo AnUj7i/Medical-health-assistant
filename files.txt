@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCBdrjuBIAOolTNIA2VotV00FAOO94MLSs",
+  authDomain: "medical-assistant-359d5.firebaseapp.com",
+  projectId: "medical-assistant-359d5",
+  storageBucket: "medical-assistant-359d5.firebasestorage.app",
+  messagingSenderId: "28225876303",
+  appId: "1:28225876303:web:93f2bb845185d31050953a"
+};

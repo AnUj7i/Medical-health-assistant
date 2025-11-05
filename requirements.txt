@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+firebase-admin
+faiss-cpu
+chromadb

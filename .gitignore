@@ -1,0 +1,14 @@
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore credentials
+.env
+firebase_config.json
+knowledge_base.json
+
+# Ignore Streamlit & cache
+.streamlit/
+.cache/
